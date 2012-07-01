@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/action/new.png</file>
+        <file>ui/action/open.png</file>
+        <file>ui/action/save.png</file>
+        <file>ui/action/saveas.png</file>
+        <file>ui/style.qss</file>
+        <file>ui/app.ico</file>
+        <file>ui/action/copy.png</file>
+        <file>ui/action/cut.png</file>
+        <file>ui/action/paste.png</file>
+        <file>ui/action/redo.png</file>
+        <file>ui/action/undo.png</file>
+        <file>ui/action/settings.png</file>
+        <file>ui/action/delete.png</file>
+        <file>ui/action/exit.png</file>
+        <file>ui/action/light.png</file>
+        <file>ui/action/timeline.png</file>
+        <file>ui/action/material.png</file>
+        <file>ui/action/target.png</file>
+        <file>ui/action/console.png</file>
+        <file>ui/action/node.png</file>
+        <file>ui/action/model.png</file>
+        <file>ui/action/scene.png</file>
+        <file>ui/action/camera.png</file>
+        <file>ui/action/forward.png</file>
+        <file>ui/action/pause.png</file>
+        <file>ui/action/play.png</file>
+        <file>ui/action/record.png</file>
+        <file>ui/action/repeat.png</file>
+        <file>ui/action/rewind.png</file>
+        <file>ui/action/stop.png</file>
+    </qresource>
+</RCC>
