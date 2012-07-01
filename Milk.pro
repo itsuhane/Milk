@@ -11,7 +11,7 @@ TEMPLATE = app
 
 RC_FILE = milk.rc
 
-INCLUDEPATH += ./libmmd/include
+INCLUDEPATH += ../libmmd/include
 
 SOURCES += main.cpp\
         milkmainwindow.cpp \
